@@ -1,0 +1,7 @@
+NOTAS
+
+- Seção de preparação do ambiente;
+    - Instalação do NodeJS, VSCode e Chrome;
+- Entender como o curso está estruturado;
+- Como fazer perguntas durante o curso;
+- Apresentação de uma nova seção do curso sobre HTML e CSS;
